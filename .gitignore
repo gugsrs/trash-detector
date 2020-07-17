@@ -3,3 +3,5 @@ mrcnn
 Mask_RCNN
 report.txt
 .DS_Store
+model/*
+dataset/*
